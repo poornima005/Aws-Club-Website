@@ -1,4 +1,4 @@
-
+/*Website js */
 (function() {
     "use strict";
   
@@ -199,3 +199,5 @@
     });
   
   })()
+  /* Contact js */
+  feather.replace();
