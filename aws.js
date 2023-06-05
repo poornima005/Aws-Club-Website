@@ -199,5 +199,4 @@
     });
   
   })()
-  /* Contact js */
-  feather.replace();
+  
