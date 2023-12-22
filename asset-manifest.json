@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Aws-Club-Website/static/css/main.01fde55c.css",
-    "main.js": "/Aws-Club-Website/static/js/main.aca11ddd.js",
+    "main.js": "/Aws-Club-Website/static/js/main.00b20021.js",
     "static/js/787.55a4cfa9.chunk.js": "/Aws-Club-Website/static/js/787.55a4cfa9.chunk.js",
     "static/media/core-1.jpg": "/Aws-Club-Website/static/media/core-1.fcc0701699455c55e17f.jpg",
     "static/media/core-4.jpg": "/Aws-Club-Website/static/media/core-4.939ba48d386d74f44687.jpg",
@@ -9,10 +9,10 @@
     "static/media/core-5.jpg": "/Aws-Club-Website/static/media/core-5.3b02db501a574441c37f.jpg",
     "static/media/core-3.jpg": "/Aws-Club-Website/static/media/core-3.d08e311c4e2fc50a5299.jpg",
     "static/media/core-7.jpg": "/Aws-Club-Website/static/media/core-7.223c49cbda9791b66569.jpg",
+    "static/media/AwsClubLogo.png": "/Aws-Club-Website/static/media/AwsClubLogo.350c2ad70d82d7297955.png",
     "static/media/aws-event-1.jpg": "/Aws-Club-Website/static/media/aws-event-1.a4a5222be0bcb1a71679.jpg",
     "static/media/hero-img.svg": "/Aws-Club-Website/static/media/hero-img.a481d5b1d9e9afae889e34e1550bbd52.svg",
     "static/media/core-9.jpg": "/Aws-Club-Website/static/media/core-9.80d25e761231c3bfd7ee.jpg",
-    "static/media/AwsLogo.png": "/Aws-Club-Website/static/media/AwsLogo.4f8c6df3082ac81fd2d3.png",
     "static/media/hero-bg.png": "/Aws-Club-Website/static/media/hero-bg.824f8dde9bac8fb30ace.png",
     "static/media/hero1-img.png": "/Aws-Club-Website/static/media/hero1-img.2a97c270c457d64e4db9.png",
     "static/media/core-2.jpg": "/Aws-Club-Website/static/media/core-2.6c0ac7d50d78ad6a7975.jpg",
@@ -23,11 +23,11 @@
     "static/media/FAQ2.svg": "/Aws-Club-Website/static/media/FAQ2.ec1ba14b853c562a663728483bac4824.svg",
     "index.html": "/Aws-Club-Website/index.html",
     "main.01fde55c.css.map": "/Aws-Club-Website/static/css/main.01fde55c.css.map",
-    "main.aca11ddd.js.map": "/Aws-Club-Website/static/js/main.aca11ddd.js.map",
+    "main.00b20021.js.map": "/Aws-Club-Website/static/js/main.00b20021.js.map",
     "787.55a4cfa9.chunk.js.map": "/Aws-Club-Website/static/js/787.55a4cfa9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.01fde55c.css",
-    "static/js/main.aca11ddd.js"
+    "static/js/main.00b20021.js"
   ]
 }
