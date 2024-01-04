@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Aws-Club-Website/static/css/main.ea123e2f.css",
+    "main.css": "/Aws-Club-Website/static/css/main.8390d505.css",
     "main.js": "/Aws-Club-Website/static/js/main.389759f4.js",
     "static/js/787.55a4cfa9.chunk.js": "/Aws-Club-Website/static/js/787.55a4cfa9.chunk.js",
     "static/media/AwsLogo3.jpg": "/Aws-Club-Website/static/media/AwsLogo3.3ac1e26a1bb5e2c6c621.jpg",
@@ -22,12 +22,12 @@
     "static/media/FAQ1.svg": "/Aws-Club-Website/static/media/FAQ1.843eb114c7213a596ee246bf87f27008.svg",
     "static/media/FAQ2.svg": "/Aws-Club-Website/static/media/FAQ2.ec1ba14b853c562a663728483bac4824.svg",
     "index.html": "/Aws-Club-Website/index.html",
-    "main.ea123e2f.css.map": "/Aws-Club-Website/static/css/main.ea123e2f.css.map",
+    "main.8390d505.css.map": "/Aws-Club-Website/static/css/main.8390d505.css.map",
     "main.389759f4.js.map": "/Aws-Club-Website/static/js/main.389759f4.js.map",
     "787.55a4cfa9.chunk.js.map": "/Aws-Club-Website/static/js/787.55a4cfa9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea123e2f.css",
+    "static/css/main.8390d505.css",
     "static/js/main.389759f4.js"
   ]
 }
