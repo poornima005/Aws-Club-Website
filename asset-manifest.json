@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Aws-Club-Website/static/css/main.f703f646.css",
-    "main.js": "/Aws-Club-Website/static/js/main.0c55716e.js",
+    "main.css": "/Aws-Club-Website/static/css/main.b42c283e.css",
+    "main.js": "/Aws-Club-Website/static/js/main.387a6003.js",
     "static/js/787.55a4cfa9.chunk.js": "/Aws-Club-Website/static/js/787.55a4cfa9.chunk.js",
     "static/media/photogal3.jpg": "/Aws-Club-Website/static/media/photogal3.2558683c960944d1ec9c.jpg",
     "static/media/photogal2.jpg": "/Aws-Club-Website/static/media/photogal2.717ba9e09db8af07e762.jpg",
@@ -26,12 +26,12 @@
     "static/media/core-2.jpg": "/Aws-Club-Website/static/media/core-2.6c0ac7d50d78ad6a7975.jpg",
     "static/media/core-9.jpg": "/Aws-Club-Website/static/media/core-9.7f091d555d9e972670da.jpg",
     "index.html": "/Aws-Club-Website/index.html",
-    "main.f703f646.css.map": "/Aws-Club-Website/static/css/main.f703f646.css.map",
-    "main.0c55716e.js.map": "/Aws-Club-Website/static/js/main.0c55716e.js.map",
+    "main.b42c283e.css.map": "/Aws-Club-Website/static/css/main.b42c283e.css.map",
+    "main.387a6003.js.map": "/Aws-Club-Website/static/js/main.387a6003.js.map",
     "787.55a4cfa9.chunk.js.map": "/Aws-Club-Website/static/js/787.55a4cfa9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f703f646.css",
-    "static/js/main.0c55716e.js"
+    "static/css/main.b42c283e.css",
+    "static/js/main.387a6003.js"
   ]
 }
