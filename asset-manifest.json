@@ -1,19 +1,23 @@
 {
   "files": {
     "main.css": "/Aws-Club-Website/static/css/main.2553f786.css",
-    "main.js": "/Aws-Club-Website/static/js/main.49df4570.js",
+    "main.js": "/Aws-Club-Website/static/js/main.8686c421.js",
     "static/js/787.55a4cfa9.chunk.js": "/Aws-Club-Website/static/js/787.55a4cfa9.chunk.js",
     "static/media/photogal3.jpg": "/Aws-Club-Website/static/media/photogal3.2558683c960944d1ec9c.jpg",
     "static/media/photogal2.jpg": "/Aws-Club-Website/static/media/photogal2.717ba9e09db8af07e762.jpg",
     "static/media/photogal1.jpg": "/Aws-Club-Website/static/media/photogal1.453fa32be898a1a87f22.jpg",
     "static/media/photogal7.jpg": "/Aws-Club-Website/static/media/photogal7.7e98c3d53534caf1c5cb.jpg",
     "static/media/AwsLogo3.jpg": "/Aws-Club-Website/static/media/AwsLogo3.3ac1e26a1bb5e2c6c621.jpg",
+    "static/media/core-10.jpg": "/Aws-Club-Website/static/media/core-10.af1cc42a96a3fc325158.jpg",
     "static/media/head.jpg": "/Aws-Club-Website/static/media/head.7df7e0dcec66d129075a.jpg",
     "static/media/photogal4.jpg": "/Aws-Club-Website/static/media/photogal4.89ae1be2cb60ab259092.jpg",
     "static/media/photogal5.jpg": "/Aws-Club-Website/static/media/photogal5.72da32431d8a1c2cb787.jpg",
-    "static/media/core-1.jpg": "/Aws-Club-Website/static/media/core-1.fcc0701699455c55e17f.jpg",
+    "static/media/core-8.jpg": "/Aws-Club-Website/static/media/core-8.c2e2e5f2e43cc6c5a736.jpg",
+    "static/media/core-7.jpg": "/Aws-Club-Website/static/media/core-7.9d672caceb4820d436d2.jpg",
     "static/media/core-2.jpg": "/Aws-Club-Website/static/media/core-2.994f552208368ae83ff4.jpg",
     "static/media/aws-event-1.jpg": "/Aws-Club-Website/static/media/aws-event-1.a4a5222be0bcb1a71679.jpg",
+    "static/media/core-1.jpg": "/Aws-Club-Website/static/media/core-1.a5cbf9a1918e09128c99.jpg",
+    "static/media/core-9.jpg": "/Aws-Club-Website/static/media/core-9.99aff9c299568b6e0a8b.jpg",
     "static/media/core-6.jpg": "/Aws-Club-Website/static/media/core-6.6f1896147d6202390f1f.jpg",
     "static/media/photogal6.jpg": "/Aws-Club-Website/static/media/photogal6.4744c6561f3cb10e1d1d.jpg",
     "static/media/slider.png": "/Aws-Club-Website/static/media/slider.4aee6cd25891a9b6365f.png",
@@ -25,11 +29,11 @@
     "static/media/core-3.jpg": "/Aws-Club-Website/static/media/core-3.f48a9ebdc756ec2facb2.jpg",
     "index.html": "/Aws-Club-Website/index.html",
     "main.2553f786.css.map": "/Aws-Club-Website/static/css/main.2553f786.css.map",
-    "main.49df4570.js.map": "/Aws-Club-Website/static/js/main.49df4570.js.map",
+    "main.8686c421.js.map": "/Aws-Club-Website/static/js/main.8686c421.js.map",
     "787.55a4cfa9.chunk.js.map": "/Aws-Club-Website/static/js/787.55a4cfa9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2553f786.css",
-    "static/js/main.49df4570.js"
+    "static/js/main.8686c421.js"
   ]
 }
